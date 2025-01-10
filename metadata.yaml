@@ -1,5 +1,5 @@
 homepage: "https://endpoint.example.com/"
 documentation: "https://endpoint.example.com/documentation"
 versions:
-  - sha: 1c548fd7e1014cc073aedf8a94e5747779ed1d86
-    changeNotes: Create LICENSE
+  - sha: 22c2360b03fc0ef0b62fd4f251b5c1a475a9763d
+    changeNotes: push template
